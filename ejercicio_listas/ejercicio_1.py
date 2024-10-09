@@ -14,6 +14,13 @@ e) Crear una función que permita recorrer las listas en ambos sentidos.
 lista = [ 10, 15, 33, 8, 45, 16, 90, 19, 43, 54,
 9, 32, 15, 6, 50, 19, 26, 65, 10, 18 ]
 
+
+
+
+
+
+
+#b
 suma_ingresos = 0
 for ingreso in lista:
     suma_ingresos += ingreso
